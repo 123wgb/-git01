@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import java.util.Date;
 
 public class LibBook {
-
+    private long i;
     private long id;
     private String name;
     private long catId;
